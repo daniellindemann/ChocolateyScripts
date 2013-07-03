@@ -1,12 +1,12 @@
 ChocolateyScripts
 =================
 
-Chocolatey scripts for auto environment setup.
+Chocolatey scripts for auto environment setup.<br />
 Use them as samples.
 
 
 
-Windows 8 Dev (untested)
+Windows 8 Dev (v0.1)
 -------------------------
 
 <ul>
